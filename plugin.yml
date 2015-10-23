@@ -1,0 +1,6 @@
+name: WorldGuardFurniturePerms
+main: main.java.me.BlackBeltPanda.WorldGuardFurniturePerms.Main
+description: WorldGuardFurniturePerms
+version: 1.0
+author: BlackBeltPanda
+depend: [WorldGuard, FurnitureLib]
